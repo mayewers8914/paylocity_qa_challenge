@@ -1,0 +1,8 @@
+.idea/
+/target/
+/test-output/
+.-lock.excel.ods#
+configuration.properties
+excel.ods
+log4j.html
+log4j.log
